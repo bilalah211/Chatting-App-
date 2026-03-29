@@ -37,7 +37,7 @@ A real-time chatting application built using **Flutter** and **Firebase**, suppo
  ![Login Screen](assets/screenshots/log.png) 
  
 |Add User Screen |
- ![Add User Screen](assets/screenshots/add users.png) 
+ ![Add User Screen](assets/screenshots/addusers.png) 
  
 |Chat Screen |
 ![Chat Screen](assets/screenshots/chat.png) 
