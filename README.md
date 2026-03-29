@@ -61,7 +61,7 @@ A real-time chatting application built using **Flutter** and **Firebase**, suppo
 
 👉 Watch the full demo here:  
 
-[Click to Watch Demo](https://youtube.com/shorts/pBuE3tQTthU?si=uUSXVJLLZUFgUbm3si=RAt6Lvlmo-UTWz3A)
+[Click to Watch Demo](https://youtube.com/shorts/HpZBOniBpSc?si=qEYpr4spASP4Dmg2)
 
 ---
 
