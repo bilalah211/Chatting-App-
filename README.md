@@ -30,22 +30,28 @@ A real-time chatting application built using **Flutter** and **Firebase**, suppo
 
 |--------------|------------|----------------|
 
-|Splash Screen |
+|Splash Screen|
+
 ![Splash Screen ](assets/screenshots/splash.png) 
 
-| Login Screen |
+|Login Screen|
+
  ![Login Screen](assets/screenshots/log.png) 
  
-|Add User Screen |
+|Add User Screen|
+
  ![Add User Screen](assets/screenshots/addusers.png) 
  
-|Chat Screen |
+|Chat Screen|
+
 ![Chat Screen](assets/screenshots/chat.png) 
 
-|Image Sended In Chat |
+|Image Sended In Chat|
+
 ![Profile](assets/screenshots/img.png) 
 
-|Profile Screen |
+|Profile Screen|
+
 ![Profile Screen](assets/screenshots/prof.png) 
 
 
@@ -54,8 +60,8 @@ A real-time chatting application built using **Flutter** and **Firebase**, suppo
 ## 🎥 Demo Video
 
 👉 Watch the full demo here:  
-[Click to Watch Demo](https://youtube.com/shorts/kmgmPrCL-hE?si=RAt6Lvlmo-UTWz3A)
+
+[Click to Watch Demo](https://youtube.com/shorts/pBuE3tQTthU?si=uUSXVJLLZUFgUbm3si=RAt6Lvlmo-UTWz3A)
 
 ---
 
-## 📂 Project Structure
