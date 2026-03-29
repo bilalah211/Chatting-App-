@@ -1,16 +1,61 @@
-# connect
+# 💬 Connect Chat App with Firebase
 
-A new Flutter project.
+A real-time chatting application built using **Flutter** and **Firebase**, supporting authentication, real-time messaging, image sharing, and user profiles.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 Firebase Authentication (Email & Password)
+- 💬 Real-time one-to-one chat
+- 🖼️ Image sharing in chat
+- 👤 User profiles
+- 🔔 Live message updates
+- ☁️ Firebase Firestore database
+- 📷 Firebase Storage for images
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- Flutter (Dart)
+- Firebase Auth
+- Cloud Firestore
+- Firebase Storage
+- Provider / MVVM (optional based on your project)
+
+---
+
+## 📸 Screenshots
+
+|--------------|------------|----------------|
+
+|Splash Screen |
+![Splash Screen ](assets/screenshots/splash.png) 
+
+| Login Screen |
+ ![Login Screen](assets/screenshots/log.png) 
+ 
+|Add User Screen |
+ ![Add User Screen](assets/screenshots/add users.png) 
+ 
+|Chat Screen |
+![Chat Screen](assets/screenshots/chat.png) 
+
+|Image Sended In Chat |
+![Profile](assets/screenshots/img.png) 
+
+|Profile Screen |
+![Profile Screen](assets/screenshots/prof.png) 
+
+
+---
+
+## 🎥 Demo Video
+
+👉 Watch the full demo here:  
+[Click to Watch Demo](https://youtube.com/shorts/kmgmPrCL-hE?si=RAt6Lvlmo-UTWz3A)
+
+---
+
+## 📂 Project Structure
